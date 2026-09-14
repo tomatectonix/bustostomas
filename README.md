@@ -1,9 +1,8 @@
-# ¡Hola! 👋
-
-Soy Bustos Tomas.
 
 En mayo de 2026 nació mi curiosidad por la programación y desde entonces
-empecé a aprender de forma autodidacta.
+empecé a aprender de forma autodidacta. 
+
+mi nombre es Bustos tomas
 
 Actualmente estoy enfocándome principalmente en C#, desarrollo de software
 y, progresivamente, en desarrollo web y ciberseguridad.
