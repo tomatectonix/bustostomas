@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy [Bustos Tomas].
+Soy Bustos Tomas.
 
 En mayo de 2026 nació mi curiosidad por la programación y desde entonces
 empecé a aprender de forma autodidacta.
