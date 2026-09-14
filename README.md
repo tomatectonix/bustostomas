@@ -1,39 +1,17 @@
+# proyecto JARVIS
 
-En mayo de 2026 nació mi curiosidad por la programación y desde entonces
-empecé a aprender de forma autodidacta. 
+Asistente virtual desarrollado en C#, orientado a experimentar con interacción por texto, automatización y una personalidad propia.
 
-mi nombre es Bustos tomas
+Objetivos del proyecto:
 
-Actualmente estoy enfocándome principalmente en C#, desarrollo de software
-y, progresivamente, en desarrollo web y ciberseguridad.
+Procesamiento de comandos.
+Respuestas dinámicas.
+Sistema de personalidad.
+Automatización de tareas.
+Evolución progresiva hacia un asistente más completo.
 
-## Actualmente estoy aprendiendo
+Tecnologías: C# · .NET
 
-- C#
-- .NET
-- Git y GitHub
-- Fundamentos de desarrollo web
-- Ciberseguridad
+Y si querés algo todavía más corto para la sección de proyectos:
 
-##  Lo que estoy haciendo
-
-Estoy construyendo pequeños proyectos para poner en práctica lo que aprendo,
-experimentar, equivocarme y mejorar.
-
-Este perfil funciona como un registro de ese proceso.
-
-## Mi objetivo
-
-Convertir el aprendizaje constante en proyectos reales, experiencia
-y eventualmente una carrera profesional en tecnología.
-
-No busco solamente aprender a programar, sino aprender a resolver problemas
-utilizando la tecnología.
-
-## Proyectos
-
-Próximamente iré agregando proyectos a medida que avance en mi aprendizaje.
-
----
-
-> "El aprendizaje no termina cuando funciona; empieza cuando intento entender por qué funciona."
+JARVIS — Asistente virtual en C# con personalidad propia, diseñado para experimentar con comandos, respuestas dinámicas y automatización.
