@@ -11,7 +11,7 @@ La idea es construir progresivamente un asistente capaz de interactuar con el us
 El proyecto no busca ser simplemente un chatbot, sino convertirse progresivamente en un asistente personal configurable, donde cada capacidad pueda desarrollarse y mejorarse de forma independiente.
 
 ---
-
+ 
 ##  Objetivos
 
 - Crear un asistente funcional utilizando C#.
